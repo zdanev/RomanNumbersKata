@@ -1,0 +1,10 @@
+﻿[0] = { roman = I, number = 1 }
+[1] = { roman = II, number = 2 }
+[2] = { roman = III, number = 3 }
+[3] = { roman = IV, number = 4 }
+[4] = { roman = V, number = 5 }
+[5] = { roman = VI, number = 6 }
+[6] = { roman = VII, number = 7 }
+[7] = { roman = VIII, number = 8 }
+[8] = { roman = IX, number = 9 }
+[9] = { roman = X, number = 10 }
